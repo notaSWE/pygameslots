@@ -129,9 +129,13 @@ dmypy.json
 .pyre/
 
 # Licensed media
-graphics/neon/*
-graphics/neon
 audio/win*.wav
 audio/stop.mp3
 audio/spin.mp3
 audio/spinclip.mp3
+font/*
+font
+graphics/neon/*
+graphics/neon
+graphics/test/*
+graphics/test
