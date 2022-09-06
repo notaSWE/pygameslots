@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Licensed media
+graphics/neon/*
+graphics/neon
+audio/win*.wav
+audio/stop.mp3
+audio/spin.mp3
+audio/spinclip.mp3
