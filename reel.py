@@ -52,6 +52,13 @@ class Reel:
         self.spin_time = 1000 + delay_time
         self.reel_is_spinning = True
 
+    def reel_spin_result(self):
+        # Get and return text representation of symbols in a given reel
+        spin_symbols = []
+        for i in GAME_INDICES:
+            spin_symbols.append(self.symbol_list.sprites()[i].sym_type)
+        return spin_symbols[::-1]
+
 class Symbol(pygame.sprite.Sprite):
     def __init__(self, pathToFile, pos, idx):
         super().__init__()

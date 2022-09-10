@@ -139,3 +139,6 @@ graphics/neon/*
 graphics/neon
 graphics/test/*
 graphics/test
+
+# Clear Code debug file
+debug.py
