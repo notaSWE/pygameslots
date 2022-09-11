@@ -18,6 +18,7 @@ def longest_seq(hit):
     subSeqLength, longest = 1, 1
     start, end = 0, 0
     for i in range(len(hit) - 1):
+        # Check to see if indices in hit parameter are sequential
         if hit[i] == hit[i + 1] - 1:
             subSeqLength += 1
             if subSeqLength > longest:
