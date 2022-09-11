@@ -1,7 +1,5 @@
 # Pygame Slots
-## Pygame-based slot machine easily-changeable symbols, sound effects, and music.
-
-
+## Pygame-based slot machine with easily changeable symbols, sound effects, and music.
 
 https://user-images.githubusercontent.com/98667270/189508033-ac361229-e493-44d3-a441-e075d22c3ddb.mp4
 
@@ -24,7 +22,7 @@ Basically just Pygame:
 
 ## Installation
 
-Pygame and Python3 are required, as well as the kidspace.ttf font in graphics/font/
+Pygame and Python3 are required, as well as the [kidspace.ttf] font in graphics/font/
 
 ```sh
 pip install -r requirements.txt
@@ -52,7 +50,7 @@ I will probably try to recreate this in an actual game engine at some point.  Po
 - Web version
 
 ## Thanks
-[Clear Code]: If you are new to Pygame, you need to watch Clear Code's videos.  They are incredible!
+[Clear Code]: If you are new to Pygame, you need to watch Clear Code's videos.  They are incredible!  
 Additionally, I had some help on delta_time/animation staggering as well as the music from two of my friends - thank you!
 ## License
 
@@ -62,3 +60,4 @@ Additionally, I had some help on delta_time/animation staggering as well as the 
    [Pygame]: <https://www.pygame.org/docs/>
    [Creative Commons 0 License]: <https://creativecommons.org/share-your-work/public-domain/cc0/>
    [Clear Code]: <https://www.youtube.com/c/ClearCode>
+   [kidspace.ttf]: <https://www.dafont.com/kidspace.font>
