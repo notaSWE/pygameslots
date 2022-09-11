@@ -50,6 +50,10 @@ I will probably try to recreate this in an actual game engine at some point.  Po
 - More win scenarios
 - Simulations
 - Web version
+
+## Thanks
+[Clear Code]: If you are new to Pygame, you need to watch Clear Code's videos.  They are incredible!
+Additionally, I had some help on delta_time/animation staggering as well as the music from two of my friends - thank you!
 ## License
 
 [Creative Commons 0 License]
@@ -57,4 +61,9 @@ I will probably try to recreate this in an actual game engine at some point.  Po
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
    [Pygame]: <https://www.pygame.org/docs/>
    [Creative Commons 0 License]: <https://creativecommons.org/share-your-work/public-domain/cc0/>
+<<<<<<< Updated upstream
    
+=======
+   [Clear Code]: <https://www.youtube.com/c/ClearCode>
+   
+>>>>>>> Stashed changes
