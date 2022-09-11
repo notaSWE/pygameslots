@@ -1,4 +1,3 @@
-from debug import debug
 from player import Player
 from reel import *
 from settings import *
