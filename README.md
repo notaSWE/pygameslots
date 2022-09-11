@@ -1,7 +1,10 @@
 # Pygame Slots
 ## Pygame-based slot machine easily-changeable symbols, sound effects, and music.
 
-https://user-images.githubusercontent.com/98667270/189507964-cae2ddf9-3baf-49e1-a0b5-af825f0c6f2b.mp4
+
+
+https://user-images.githubusercontent.com/98667270/189508033-ac361229-e493-44d3-a441-e075d22c3ddb.mp4
+
 _The symbols in this video clip are available for license on Adobe Stock_
 
 ## Features
